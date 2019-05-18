@@ -1,0 +1,9 @@
+动态的为一个对象增加新的功能
+无需通过继承增加子类就能扩展对象的新功能.
+使关联关系替代继承关系,更加灵活,避免体系过度膨胀
+
+实现细节
+Component 抽象构建角色
+ConcreteComponent 具体构建角色
+Decorator 装饰角色
+ConcreteDecorator 具体装饰角色

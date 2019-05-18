@@ -4,4 +4,17 @@
 结构性模式:
 适配器模式 桥接模式 装饰模式 组合模式 外观模式 享元模式 代理模式
 
+By definition, Design Patterns are reusable solutions to commonly occuring problems.
+Design patterns are very popular in Java and C# can be applied in all object oriented languages.
+In functional languages like Scala,certain patterns are not necessary anymore.
 
+There are four primary symptoms that tell us that our designs are rotting.
+They are rigidity,fragility,immobility,and viscosity.//修改困难,脆弱,不可抑制,粘性
+
+Principles of Object Oriented Class Design
+1. The Open Closed Principle(OCP)
+2. The Liskov Substitution Principle(LSP):Functions that use pointers or references to base classes must be able to use objects of derived classes without knowing it.
+3. The Dependency Inversion Principle(DIP)
+4. The Interface Segregation Principle(ISP)
+5. The Demeter Principle
+6. The Composite Reuse principle
