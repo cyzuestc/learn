@@ -1,6 +1,7 @@
 package ink.cyz.use.spider;
 
 import cn.hutool.http.HttpUtil;
+import ink.cyz.learn.leetcode.utils.ListNode;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -10,7 +11,53 @@ import java.io.File;
 import java.io.IOException;
 import java.util.*;
 
-public class Util {
+public class Utils {
+
+    public static ListNode getListNode(int[] array){
+        if (array == null||array.length == 0)return null;
+        ListNode dummy = new ListNode(-1);
+        ListNode cur = dummy;
+        for (int i = 0; i < array.length; i++) {
+            ListNode next =new ListNode(array[i]);
+            cur.next = next;
+            cur = cur.next;
+        }
+        return dummy.next;
+    }
+
+    public static void  print(ListNode head){
+        while (head != null){
+            System.out.printf(head.val+"\t");
+            head = head.next;
+        }
+        System.out.println();
+    }
+    public static void print(int[] arr,int i,int j){
+        for (int k = i; k < j; k++) {
+            System.out.printf(arr[k]+"\t");
+        }
+        System.out.println();
+    }
+    public static void print(int[] arr){
+        for (int k = 0; k < arr.length; k++) {
+            System.out.printf(arr[k]+"\t");
+        }
+        System.out.println();
+    }
+    public static void print(int[] arr,int i){
+        for (int k = i; k < arr.length; k++) {
+            System.out.printf(arr[k]+"\t");
+        }
+        System.out.println();
+    }
+
+    public static void print(String[] pre) {
+        for (int i = 0; i < pre.length; i++) {
+            System.out.printf(pre[i]+"\t");
+        }
+        System.out.println();
+    }
+
     /**
      * 根据页码下载该页面所有帖子内的所有图片
      * @param pageIndex

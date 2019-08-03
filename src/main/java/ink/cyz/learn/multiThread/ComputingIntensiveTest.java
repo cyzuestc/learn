@@ -46,7 +46,6 @@ public class ComputingIntensiveTest {
         int processorsCount = Runtime.getRuntime().availableProcessors();
         System.out.println(processorsCount);
         computeExecutor.invokeAll(computeTasks);
-        testExecutor(computeExecutor,computeTasks);
     }
 
 }
