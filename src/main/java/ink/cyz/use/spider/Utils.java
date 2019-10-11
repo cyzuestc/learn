@@ -134,4 +134,67 @@ public class Utils {
             System.out.println("下载进度:"+ index++ +"/"+picSet.size());
         }
     }
+
+    public static void print(char[][] board) {
+        for (int i = 0; i < board.length; i++) {
+            for (int j = 0; j < board[0].length; j++) {
+                System.out.printf(board[i][j]+"\t");
+            }
+            System.out.println();
+        }
+        System.out.println();
+    }
+
+    public static void print(boolean[][] board) {
+        for (int i = 0; i < board.length; i++) {
+            for (int j = 0; j < board[0].length; j++) {
+                System.out.printf(board[i][j]?"Q"+"\t":'.'+"\t");
+            }
+            System.out.println();
+        }
+        System.out.println();
+    }
+
+
+    public static void print(int[][] board) {
+        for (int i = 0; i < board.length; i++) {
+            for (int j = 0; j < board[0].length; j++) {
+                System.out.printf(board[i][j]+"\t");
+            }
+            System.out.println();
+        }
+        System.out.println();
+    }
+
+    public static void print(boolean[] dp) {
+        for (int i = 0; i < dp.length; i++) {
+            System.out.printf(dp[i]+"\t");
+        }
+        System.out.println();
+    }
+
+    public static void print(Stack<int[]>[] dp) {
+        for (int i = 0; i < dp.length; i++) {
+            if (dp[i] == null || dp[i].isEmpty())continue;
+            for (int[] arr : dp[i]){
+                System.out.print(arr[0]+","+ arr[1]+"\t");
+            }
+            System.out.println();
+        }
+        System.out.println();
+    }
+
+    public static void print(char[] newCs,int index) {
+        for (int i = 0; i < index; i++) {
+            System.out.printf(newCs[i]+"\t");
+        }
+        System.out.println();
+    }
+
+    public static void print(long[] arr) {
+        for (int k = 0; k < arr.length; k++) {
+            System.out.printf(arr[k]+"\t");
+        }
+        System.out.println();
+    }
 }

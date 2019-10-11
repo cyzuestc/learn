@@ -2,7 +2,7 @@ package ink.cyz.learn.leetcode;
 
 import java.util.Arrays;
 
-public class leetcode_1 {
+public class Leetcode_1 {
 
     public int[] twoSum(int[] nums, int target) {
         int[] newNum = Arrays.copyOf(nums,nums.length);
