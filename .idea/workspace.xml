@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f43efc8-d095-41ed-a72a-28a924cf1ddc" name="Default Changelist" comment="daily update">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_4_5_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_soundlibs_jlayer_1_0_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_soundlibs_jorbis_0_0_17_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_soundlibs_mp3spi_1_9_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_soundlibs_tritonus_share_0_3_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_soundlibs_vorbisspi_1_0_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_jetty_repacked_9_4_12_v20180830.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_server_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/htmlUtil/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/jvm/MyTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/jvm/MyTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/jvm/MyTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/jvm/outofMemory/HeapOOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/jvm/outofMemory/RuntimeAreaPoolOOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/U.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/contest/BiWeeklyContest_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/contest/Leaderboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/contest/Leetcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/map/HashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/multiThread/list/CopyOnWriteDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/multiThread/lock/FairLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/multiThread/lock/LockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/multiThread/lock/ReadWriteLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/multiThread/lock/ReentrantLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/multiThread/lock/ReentrantLockTryLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/multiThread/lock/ReentrantLock_UnReentrantLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/multiThread/lock/SimpleSpinLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/multiThread/lock/StampedLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/multiThread/lock/TaskQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/multiThread/lock/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/multiThread/lock/ThreadLocalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/multiThread/lock/ThreadPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/multiThread/lock/TicketLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/multiThread/lock/waitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/perl/perl.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/shell/demo.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/spring/AnnotationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/test/t.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/LearnApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/basicJava/enumDemo/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/basicJava/enumDemo/USstate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/basicJava/finalDemo/demo1/FinalClassDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/basicJava/finalDemo/demo1/FinalClassSubclass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/basicJava/finalDemo/demo2/ChildClassDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/basicJava/finalDemo/demo2/FatherClassDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/chainofResponibility/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/chainofResponibility/Director.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/chainofResponibility/GeneralManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/chainofResponibility/Leader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/chainofResponibility/LeaveRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/chainofResponibility/Manager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/command/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/command/Command.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/command/ConcreteCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/command/Invoke.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/command/Receiver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/flyweight/ChessFlyWeight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/flyweight/ChessFlyWeightFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/flyweight/ConcreteChess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/flyweight/Coordinate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/iterator/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/iterator/ConcreteMyAggregate$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/iterator/ConcreteMyAggregate$ConcreteIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/iterator/ConcreteMyAggregate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/iterator/MyIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/mediator/Department.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/mediator/Development.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/mediator/Mediator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/memento/CareTaker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/memento/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/memento/Emp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/memento/EmpMemento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/observer/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/observer/ConcreteSubject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/observer/Observer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/observer/ObserverA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/observer/Subject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/observerUtil/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/observerUtil/ConcreteSubject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/observerUtil/ObserverA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/state/BookedState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/state/CheckedInState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/state/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/state/Context.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/state/FreeState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/state/State.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/strategy/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/strategy/Context.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/strategy/NewCustomerFewStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/strategy/NewCustomerLargeStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/strategy/OldCustomerFewStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/strategy/OldCustomerLargeStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/strategy/Strategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/templateMethod/BankTemplateMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/templateMethod/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/builderDesignPatterns/templateMethod/DrawMoneyTemplateMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/builder/AirShip.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/builder/AirShipBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/builder/AirShipDirector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/builder/CyzAirShipBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/builder/CyzAirShipDirector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/builder/Engine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/builder/EscapeTower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/builder/OrbitalModule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/factory/abstractFactoryMethod/CarFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/factory/abstractFactoryMethod/CheapEngine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/factory/abstractFactoryMethod/CheapSeat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/factory/abstractFactoryMethod/CheapTyre.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/factory/abstractFactoryMethod/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/factory/abstractFactoryMethod/Engine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/factory/abstractFactoryMethod/LuxuryCarFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/factory/abstractFactoryMethod/LuxuryEngine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/factory/abstractFactoryMethod/LuxurySeat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/factory/abstractFactoryMethod/LuxuryTyre.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/factory/abstractFactoryMethod/Seat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/factory/abstractFactoryMethod/Tyre.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/factory/factoryMethod/Audi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/factory/factoryMethod/AudiFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/factory/factoryMethod/Benz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/factory/factoryMethod/BenzFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/factory/factoryMethod/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/factory/factoryMethod/CarFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/factory/factoryMethod/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/factory/staticFactoryMethod/Audi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/factory/staticFactoryMethod/Benz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/factory/staticFactoryMethod/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/factory/staticFactoryMethod/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/factory/staticFactoryMethod/Factory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/prototype/Client1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/prototype/Client2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/prototype/Sheep.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/singleton/Client01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/singleton/SingletonDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/singleton/SingletonDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/singleton/SingletonDemo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/singleton/SingletonDemo4$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/singleton/SingletonDemo4$SingletonClassInstance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/singleton/SingletonDemo4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/creationalDesignPatterns/singleton/SingletonDemo5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/adapter/Adaptee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/adapter/Adapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/adapter/Adapter2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/adapter/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/adapter/Target.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/bridge/Brand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/bridge/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/bridge/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/bridge/Dell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/bridge/Desktop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/bridge/Laptop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/bridge/Lenovo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/composite/AbstractFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/composite/Component.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/composite/Composite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/composite/Folder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/composite/ImageFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/composite/Leaf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/composite/TextFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/composite/VideoFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/decorator/AICar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/decorator/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/decorator/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/decorator/FlyCar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/decorator/ICar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/decorator/SuperCar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/decorator/WaterCar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/dynamicProxy/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/dynamicProxy/RealStar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/dynamicProxy/Star.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/dynamicProxy/StarHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/facade/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/staticProxy/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/staticProxy/ProxyStar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/staticProxy/RealStar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/gof23/structuralDesignPatterns/staticProxy/Star.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/jvm/MyChild1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/jvm/MyParent1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/jvm/MyParent2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/jvm/MyParent3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/jvm/MyTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/jvm/MyTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/jvm/MyTest3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/leetcode/Leetcode_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/leetcode/U.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/leetcode/contest/BiWeeklyContest_11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/leetcode/contest/Leaderboard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/leetcode/contest/Leetcode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/leetcode/utils/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/leetcode/utils/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/multiThread/ComputingIntensiveTest$ComputeTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/multiThread/ComputingIntensiveTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/learn/test/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/use/music/MusicDownloadBySelenium$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/use/music/MusicDownloadBySelenium$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/use/music/MusicDownloadBySelenium.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/use/spider/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/use/spider/TestPic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ink/cyz/use/spider/Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lib/mp3spi1.9.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ink/cyz/learn/LearnApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/LeetCode_13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_102.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_103.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_107.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_1144.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_1145.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_1147.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_115.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_1154.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_1155.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_1156.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_115_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_1160.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_1161.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_1162.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_1163.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_1169.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_1170.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_1171.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_120.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_120_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_121.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_123.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_131.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_132.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_132_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_139.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_140.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_150.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_169.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_198.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_211.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_213.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_215.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_216.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_217.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_220.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_221.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_223.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_224.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_228.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_229.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_23.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_230.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_238.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_239.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_25.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_264.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_27.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_279.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_29.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_30.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_300.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_303.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_304.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_31.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_32.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_321.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_322.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_322_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_33.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_338.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_34.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_343.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_35.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_354.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_357.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_363.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_36_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_37.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_374.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_375.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_376.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_377.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_377_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_37_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_37_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_37_4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_38.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_39.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_392.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_40.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_41.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_413.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_416.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_416_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_42.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_44.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_45.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_46.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_47.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_48.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_49.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_50.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_5067.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_5068.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_5068_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_5070.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_5070_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_5071.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_5072.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_5073.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_51.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_5126.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_5173.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_5174.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_5175.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_5175_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_5181.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_5182.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_5182_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_5183.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_5199.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_5213.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_5214.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_5215.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_53.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_54.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_55.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_56.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_57.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_62.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_63.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_64.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_70.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_72.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_802.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_84.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_85.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_91.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_947.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_95.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_96.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/Leetcode_97.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/MajorityChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/utils/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/leetcode_219.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/leetcode/utils/Leetcode_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ink/cyz/learn/test/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="learn/invalid/Spring" />
+    </ignored-facets>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S46FUQNVSz20m6ssob5Pv6gqmk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/bash.exe" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="instant.run" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ink.cyz.learn.multiThread.lock" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ink.cyz.learn.leetcode" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ink.cyz.learn.leetcode.contest" />
+      <recent name="ink.cyz.learn.leetcode" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\learn\src\main\java\ink\cyz\learn\jvm" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AnnotationDemo.t">
+    <configuration name="AnnotationDemo.t" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ink.cyz.learn.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ink.cyz.learn.spring" />
+      <option name="MAIN_CLASS_NAME" value="ink.cyz.learn.spring.AnnotationDemo" />
+      <option name="METHOD_NAME" value="t" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CopyOnWriteDemo.t" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ink.cyz.learn.multiThread.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ink.cyz.learn.multiThread.list" />
+      <option name="MAIN_CLASS_NAME" value="ink.cyz.learn.multiThread.list.CopyOnWriteDemo" />
+      <option name="METHOD_NAME" value="t" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo1.t" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ink.cyz.learn.htmlUtil.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ink.cyz.learn.htmlUtil" />
+      <option name="MAIN_CLASS_NAME" value="ink.cyz.learn.htmlUtil.Demo1" />
+      <option name="METHOD_NAME" value="t" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPoolDemo.t" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ink.cyz.learn.multiThread.lock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ink.cyz.learn.multiThread.lock" />
+      <option name="MAIN_CLASS_NAME" value="ink.cyz.learn.multiThread.lock.ThreadPoolDemo" />
+      <option name="METHOD_NAME" value="t" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="waitDemo (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ink.cyz.learn.multiThread.lock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ink.cyz.learn.multiThread.lock" />
+      <option name="MAIN_CLASS_NAME" value="ink.cyz.learn.multiThread.lock.waitDemo" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="waitDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ink.cyz.learn.multiThread.lock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ink.cyz.learn.multiThread.lock" />
+      <option name="MAIN_CLASS_NAME" value="ink.cyz.learn.multiThread.lock.waitDemo" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="waitDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ink.cyz.learn.multiThread.lock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ink.cyz.learn.multiThread.lock" />
+      <option name="MAIN_CLASS_NAME" value="ink.cyz.learn.multiThread.lock.waitDemo" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="waitDemo.t" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ink.cyz.learn.multiThread.lock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ink.cyz.learn.multiThread.lock" />
+      <option name="MAIN_CLASS_NAME" value="ink.cyz.learn.multiThread.lock.waitDemo" />
+      <option name="METHOD_NAME" value="t" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shell" type="ShConfigurationType">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/src/main/java/ink/cyz/learn/shell/demo.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/java/ink/cyz/learn/shell" />
+      <option name="INTERPRETER_PATH" value="C:/Program Files/Git/bin/bash.exe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LearnApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="learn" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ink.cyz.learn.LearnApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="perl" type="#PerlConfigurationType" factoryName="Perl" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="alternativeSdkName" />
+      <option name="compileTimeBreakpointsEnabled" value="false" />
+      <option name="consoleCharset" value="UTF-8" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="initCode" value="" />
+      <option name="nonInteractiveModeEnabled" value="false" />
+      <option name="passParentEnvs" value="true" />
+      <option name="perlParameters" value="" />
+      <option name="programParameters" value="" />
+      <option name="scriptCharset" value="utf8" />
+      <option name="scriptPath" value="C:\Users\Administrator\IdeaProjects\learn\src\main\java\ink\cyz\learn\perl\perl.pl" />
+      <option name="startMode" value="RUN" />
+      <option name="useAlternativeSdk" value="false" />
+      <option name="workingDirectory" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Demo1.t" />
+      <item itemvalue="JUnit.waitDemo.t" />
+      <item itemvalue="JUnit.waitDemo (1)" />
+      <item itemvalue="JUnit.ThreadPoolDemo.t" />
+      <item itemvalue="JUnit.CopyOnWriteDemo.t" />
+      <item itemvalue="Perl.perl" />
+      <item itemvalue="Shell Script.shell" />
+      <item itemvalue="JUnit.AnnotationDemo.t" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AnnotationDemo.t" />
+        <item itemvalue="JUnit.CopyOnWriteDemo.t" />
+        <item itemvalue="JUnit.ThreadPoolDemo.t" />
+        <item itemvalue="JUnit.waitDemo.t" />
+        <item itemvalue="JUnit.waitDemo (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f43efc8-d095-41ed-a72a-28a924cf1ddc" name="Default Changelist" comment="" />
+      <created>1570810416766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570810416766</updated>
+      <workItem from="1570810417948" duration="2139000" />
+      <workItem from="1570812767379" duration="10000" />
+      <workItem from="1570848077261" duration="2289000" />
+      <workItem from="1570852307225" duration="1603000" />
+      <workItem from="1570933725902" duration="9104000" />
+      <workItem from="1571494497110" duration="3720000" />
+      <workItem from="1571538272501" duration="7017000" />
+      <workItem from="1572142910915" duration="5775000" />
+      <workItem from="1572699483934" duration="4994000" />
+      <workItem from="1572748200743" duration="7310000" />
+      <workItem from="1573957624019" duration="4605000" />
+      <workItem from="1573977032476" duration="5690000" />
+      <workItem from="1574771169436" duration="1809000" />
+      <workItem from="1574955286107" duration="1458000" />
+      <workItem from="1576065910917" duration="753000" />
+      <workItem from="1576070919355" duration="4402000" />
+      <workItem from="1576893040227" duration="8980000" />
+      <workItem from="1576981755498" duration="4343000" />
+      <workItem from="1577003719760" duration="4771000" />
+      <workItem from="1577017332545" duration="3194000" />
+      <workItem from="1577105461413" duration="8713000" />
+      <workItem from="1577195150183" duration="7540000" />
+      <workItem from="1577455964589" duration="1173000" />
+      <workItem from="1577499716740" duration="2721000" />
+      <workItem from="1577509961704" duration="6851000" />
+      <workItem from="1577543590364" duration="7290000" />
+      <workItem from="1577582179978" duration="7913000" />
+      <workItem from="1577596931585" duration="3174000" />
+      <workItem from="1577704242012" duration="1439000" />
+      <workItem from="1578190733461" duration="7825000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="daily update" />
+    <option name="LAST_COMMIT_MESSAGE" value="daily update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="565" y="178" key="#Notifications" timestamp="1583141303883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="565" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1583141303883" />
+    <state x="668" y="241" key="#Unnamed" timestamp="1583198226853">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="241" key="#Unnamed/0.0.1920.1040@0.0.1920.1040" timestamp="1583198226853" />
+    <state x="548" y="190" width="1092" height="668" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583198316868">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="548" y="190" width="1092" height="668" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583198316868" />
+    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1583323340304">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583323340304" />
+    <state x="508" y="111" key="CommitChangelistDialog2" timestamp="1583027708423">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="508" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583027708423" />
+    <state x="376" y="257" width="440" height="430" key="FileChooserDialogImpl" timestamp="1583198314903">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="376" y="257" width="440" height="430" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583198314903" />
+    <state width="914" height="348" key="GridCell.Tab.0.bottom" timestamp="1583415831004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583415831004" />
+    <state width="914" height="348" key="GridCell.Tab.0.center" timestamp="1583415831004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583415831004" />
+    <state width="914" height="348" key="GridCell.Tab.0.left" timestamp="1583415831004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583415831004" />
+    <state width="914" height="348" key="GridCell.Tab.0.right" timestamp="1583415831004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583415831004" />
+    <state x="746" y="271" width="998" height="708" key="SettingsEditor" timestamp="1583204070980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="746" y="271" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583204070980" />
+    <state x="565" y="252" key="Vcs.Push.Dialog.v2" timestamp="1583027729433">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="565" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583027729433" />
+    <state x="653" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1583414671603">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="653" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583414671603" />
+    <state x="721" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583282544605">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583282544605" />
+    <state x="1060" y="207" width="827" height="705" key="dock-window-1" timestamp="1583232736190">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1060" y="207" width="827" height="705" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1583232736190" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1583332315019">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583332315019" />
+  </component>
+</project>
